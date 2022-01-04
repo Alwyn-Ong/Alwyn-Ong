@@ -1,3 +1,5 @@
+![snake gif](https://github.com/Alwyn-Ong/Alwyn-Ong/blob/output/github-contribution-grid-snake.gif)
+
 ### Hi there 👋
 
 <!--
