@@ -6,7 +6,7 @@ Check out my portfolio website at www.alwynong.com!
 
 ![snake gif](https://github.com/Alwyn-Ong/Alwyn-Ong/blob/output/github-contribution-grid-snake.svg)
 
-![Alwyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alwyn-Ong&?count_private=true&theme=tokyonight)
+![Alwyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alwyn-Ong&?count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwyn-Ong&langs_count=6&layout=compact&theme=dark&hide=C,c%2B%2B)
 
