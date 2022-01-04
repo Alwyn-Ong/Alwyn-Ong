@@ -1,6 +1,6 @@
 ![snake gif](https://github.com/Alwyn-Ong/Alwyn-Ong/blob/output/github-contribution-grid-snake.gif)
 
-### Hi there 👋
+![Alwyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alwyn-Ong&?count_private=true&theme=tokyonight)
 
 <!--
 **Alwyn-Ong/Alwyn-Ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
