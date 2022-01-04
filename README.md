@@ -8,7 +8,6 @@ Check out my portfolio website at www.alwynong.com!
 
 ![Alwyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alwyn-Ong&?count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwyn-Ong&langs_count=6&layout=compact&theme=dark&hide=C,c%2B%2B)
 
 <!--
 **Alwyn-Ong/Alwyn-Ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
