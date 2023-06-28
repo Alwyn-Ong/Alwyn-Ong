@@ -6,7 +6,7 @@ Check out my portfolio website at www.alwynong.com!
 
 ![snake gif](https://github.com/Alwyn-Ong/Alwyn-Ong/blob/output/github-contribution-grid-snake.svg)
 
-![Alwyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alwyn-Ong&?count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)
+![Alwyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alwyn-Ong&?count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&hide_rank=true)
 
 
 <!--
