@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Alwyn, and I like to solve problems with code.
 
-Check out my portfolio website at www.alwynong.com!
+Check out my portfolio website at https://alwyn-ong.github.io/Portfolio-website/ !
 
 ## &#x1f4c8; GitHub Stats
 
