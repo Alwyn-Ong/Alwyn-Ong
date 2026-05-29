@@ -4,10 +4,13 @@ Check out my portfolio website at https://alwyn-ong.github.io/Portfolio-website/
 
 ## &#x1f4c8; GitHub Stats
 
-![snake gif](https://github.com/Alwyn-Ong/Alwyn-Ong/blob/output/github-contribution-grid-snake.svg)
-
 ![Alwyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alwyn-Ong&?count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&hide_rank=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alwyn-Ong/Alwyn-Ong/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alwyn-Ong/Alwyn-Ong/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alwyn-Ong/Alwyn-Ong/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **Alwyn-Ong/Alwyn-Ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
